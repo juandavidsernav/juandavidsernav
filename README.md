@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with this repo and I going to create Discord and Medium personal pages for sharing my knowledge and help people to resolve problems and learn new things.
 - 💬 Ask me about programming, maths, and any doubt about me and my job.
 - 📫 How to reach me: juandavidserna12@gmail.com / https://www.linkedin.com/in/juandavidsernav/
--⚡ Hobbies: Reading, Programming, Running, I usually never stop learning.
+- ⚡ Hobbies: Reading, Programming, Running, I usually never stop learning.
 
 
 
